@@ -38,7 +38,7 @@ function App() {
       </Routes>
 
       <footer className='bg-body-tertiary'>
-        <p className='p-3 m-0 text-center'>copyright @ made by Ionut Cora</p>
+        <p className='p-3 m-0 text-center'>copyright </p>
       </footer>
     </div>
   );
